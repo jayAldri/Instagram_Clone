@@ -1,0 +1,212 @@
+.ig-post{
+    display: flex;
+    justify-content: center;
+    margin-top: 40px;
+}
+
+.ig-account-picture {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    
+
+}
+
+.page-picture{
+    width: 40px;
+    border-radius: 50px;
+    cursor: pointer;
+}
+
+.page-name {
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 600;
+    color: rgb(77, 76, 76);
+    margin-left: 10px;
+    cursor: pointer;
+}
+
+.verified-icon{
+    width: 15px;
+}
+
+.time{
+    font-family: Arial, Helvetica, sans-serif;
+    color: gray;
+}
+
+.triple-icon{
+    display: flex;
+    margin-left: 250px;
+    width: 20px;
+    cursor: pointer;
+}
+
+.bini-ph-post{
+    margin-top: 10px;
+    border-radius: 5px;
+}
+
+.heart-share-commnet {
+    display: flex;
+    flex-direction: row;
+  
+}
+
+.heart, .comment, .share, .save {
+    width: 25px;
+    cursor: pointer;
+    margin-top: 10px;
+    
+}
+.comment {
+    width: 28px;
+    margin-left: 10px;
+}
+.share {
+    width: 25px;
+    margin-left: 10px; 
+}
+.save{
+    margin-left: 323px;
+}
+
+.stats{
+    display: flex;
+    flex-direction: row;
+    margin-top: 8px;
+   
+}
+
+.like-by {
+    width: 15px;
+    border-radius: 20px;
+    cursor: pointer;
+}
+.by {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 13px;
+    margin-left: 5px;
+    color: rgb(48, 48, 48);
+}
+
+.like-by-mikha {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 13px;
+    margin-left: 4px;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+.and {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 13px;
+    margin-left: 5px;
+    color: rgb(48, 48, 48);
+}
+
+.other {
+    font-size: 13px;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 4px; 
+    cursor: pointer;   
+}
+
+.auhtor {
+    display: flex;
+    flex-direction: row;
+  
+
+}
+
+.author-bini {
+    display: flex;
+    flex-direction: row;
+    margin-top: 10px;
+  
+}
+
+.bini-ph {
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    font-size: 13px;
+    cursor: pointer;
+}
+
+.author-picture {
+    width: 16px;
+    margin-left: 5px;
+    
+}
+
+.billboard {
+    color: rgb(104, 104, 192);
+    font-size: 13px;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 10px;
+}
+
+.photo {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 13px;
+    margin-left: 6px;
+}
+
+.more {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 13px;
+    color: rgb(107, 107, 107);
+    cursor: pointer;
+}
+
+.view {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 13px;
+    color: rgb(163, 162, 162);
+    margin-top: 8px;
+    cursor: pointer;
+    
+}
+.add-a-comment {
+    display: flex;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 13px;
+    color: rgb(163, 162, 162);
+    cursor: pointer;
+}
+
+.input-comment {
+    border: none;
+    margin-top: 8px;
+    width: 440px;
+    
+}
+.happy-con {
+    display: flex;
+    justify-content: center;
+    justify-items: center;
+
+    
+}
+
+.happy {
+    display: flex;
+    justify-items: center;
+    justify-content: center;
+    width: 12px;
+    margin-top: 12px;
+    cursor: pointer;
+}
+
+.border-bottom-line {
+    border-width: 1px;
+    margin-top: 20px;
+    background-color: rgb(219, 219, 219);
+    border-style: solid;
+    width: 460px;
+    text-decoration: underline;
+    border-color:  rgb(219, 219, 219);
+    
+    
+}

@@ -1,0 +1,29 @@
+
+
+.header{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    margin-top: 20px;
+
+    
+}
+
+.story1{
+    margin-left: 20px;
+}
+
+.story1-picture{
+    width: 55px;
+    border-radius: 50px;
+    border-width: 2px;
+    border-style: solid;
+    border-color: lightpink rgb(206, 130, 155) rgb(228, 202, 56) rgb(189, 165, 169);
+    cursor: pointer;
+    
+}
+
+.story-name{
+    white-space: nowrap;
+    cursor: pointer;
+}
